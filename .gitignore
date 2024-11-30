@@ -4,3 +4,4 @@ read
 laptop-demos
 reading
 .env
+secrets.toml
