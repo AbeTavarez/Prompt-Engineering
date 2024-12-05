@@ -1,6 +1,4 @@
 streamlit
 langchain
 langchain_groq
-openai
-tiktoken
 langchain_community
