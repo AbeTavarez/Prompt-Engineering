@@ -5,3 +5,5 @@ laptop-demos
 reading
 .env
 secrets.toml
+app.v1.py
+app.v2.py
